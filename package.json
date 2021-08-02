@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/AayushAlok2611/DevConnector#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "concurrently": "^6.2.0",
     "config": "^3.3.6",
@@ -28,8 +29,15 @@
     "express-validator": "^6.12.1",
     "gravatar": "^1.8.1",
     "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
     "mongoose": "^5.13.5",
     "nodemon": "^2.0.12",
+    "react-moment": "^1.1.1",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "redux": "^4.1.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0",
     "request": "^2.88.2",
     "uuid": "^8.3.2"
   }
